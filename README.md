@@ -9,9 +9,9 @@
 
 - 📫 How to reach me **sayedosama088@gmail.com**
 
-<img align="left" src="https://sayed-osama-portfolio.vercel.app/images/my-photo.jpeg" alt="img" />
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1MO1cvujfyf4uZXn7P3eXwTMQ16uZvY1-/view?usp=drivesdk](https://drive.google.com/file/d/1MO1cvujfyf4uZXn7P3eXwTMQ16uZvY1-/view?usp=drivesdk)
+
+<img align="right" height="100" width="100"  src="https://sayed-osama-portfolio.vercel.app/images/my-photo.jpeg" alt="img" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
