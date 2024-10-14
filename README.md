@@ -43,6 +43,7 @@ Hi, I'm sayed osama mohamed
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-FF0081?style=flat-square&logo=framer&logoColor=white)
