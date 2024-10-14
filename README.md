@@ -16,8 +16,7 @@ Hi, I'm sayed osama mohamed
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://sayed-osama-portfolio.vercel.app/)
 
-<!-- - 📫 How to reach me **sayedosama088@gmail.com** -->
-- 📫 How to reach me 📨 [My Email](sayedosama088@gmail.com)
+- 📫 How to reach me 📨 **sayedosama088@gmail.com**
 
 - 📄 Know about my experiences [My Cv](https://drive.google.com/file/d/1MO1cvujfyf4uZXn7P3eXwTMQ16uZvY1-/view?usp=drivesdk)
 
