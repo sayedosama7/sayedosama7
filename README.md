@@ -1,19 +1,23 @@
-<h1 align="center">Hi 👋, I'm sayed osama mohamed</h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h1 align="center">
+Hi, I'm sayed osama mohamed
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
-<h3 align="center">A passionate frontend developer react  and next js</h3>
-<h3 align="center">react and next js</h3>
+<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">(React js , Next js)</h3>
+
+<img align="right" height="300" width="300"  src="https://sayed-osama-portfolio.vercel.app/images/my-photo.jpeg" alt="img" />
 
 - 🔭 I’m currently working at **itd company**
 
 - 🌱 I’m currently learning **Node js**
 
-- 👨‍💻 All of my projects are available at [https://sayed-osama-portfolio.vercel.app/](https://sayed-osama-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://sayed-osama-portfolio.vercel.app/)
 
 - 📫 How to reach me **sayedosama088@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MO1cvujfyf4uZXn7P3eXwTMQ16uZvY1-/view?usp=drivesdk](https://drive.google.com/file/d/1MO1cvujfyf4uZXn7P3eXwTMQ16uZvY1-/view?usp=drivesdk)
+- 📄 Know about my experiences [My Cv](https://drive.google.com/file/d/1MO1cvujfyf4uZXn7P3eXwTMQ16uZvY1-/view?usp=drivesdk)
 
-<img align="right" height="300" width="300"  src="https://sayed-osama-portfolio.vercel.app/images/my-photo.jpeg" alt="img" />
+- Always learning new things
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
