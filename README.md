@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm sayed osama mohamed</h1>
-<h3 align="center">A passionate frontend developer react js and next js</h3>
+<h1 align="center">Hi 👋, I'm sayed osama mohamed</h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+
+<h3 align="center">A passionate frontend developer react  and next js</h3>
+<h3 align="center">react and next js</h3>
 
 - 🔭 I’m currently working at **itd company**
 
@@ -11,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1MO1cvujfyf4uZXn7P3eXwTMQ16uZvY1-/view?usp=drivesdk](https://drive.google.com/file/d/1MO1cvujfyf4uZXn7P3eXwTMQ16uZvY1-/view?usp=drivesdk)
 
-<img align="right" height="100" width="100"  src="https://sayed-osama-portfolio.vercel.app/images/my-photo.jpeg" alt="img" />
+<img align="right" height="300" width="300"  src="https://sayed-osama-portfolio.vercel.app/images/my-photo.jpeg" alt="img" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
