@@ -5,7 +5,7 @@ Hi, I'm sayed osama mohamed
 <h3 align="center">A passionate frontend developer</h3>
 <h3 align="center">(React js , Next js)</h3>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Faculty+of+system+and+information;Front+End+Web+Developer;Freelancer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=System+and+Information+Graduated;Front+End+Web+Developer;Freelancer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 <img align="right" height="300" width="300"  src="https://scontent.faly1-2.fna.fbcdn.net/v/t39.30808-6/451845078_496920922789708_2080687790670195205_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGtnGY3Aml40qvpbbS5T2thaeNpxdx4dChp42nF3Hh0KOj9-EgYVKHew50qujD7ePGClAId3gK0OlYyMqb0wFbU&_nc_ohc=CdGngE-JjKIQ7kNvgFLxvDw&_nc_zt=23&_nc_ht=scontent.faly1-2.fna&_nc_gid=AEt6apEPF4Bx-oacm95YEWb&oh=00_AYCPSb44CMo-h5i6eQzsLLSfYwv4YXmKbmBMMGQeQY3O4g&oe=67129B9B" alt="img" />
 
