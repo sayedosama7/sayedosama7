@@ -5,7 +5,7 @@ Hi, I'm sayed osama mohamed
 <h3 align="center">A passionate frontend developer</h3>
 <h3 align="center">(React js , Next js)</h3>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Faculty+of+system+and+information;Front+End+Web+Developer;Freelancer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 <img align="right" height="300" width="300"  src="https://sayed-osama-portfolio.vercel.app/images/my-photo.jpeg" alt="img" />
 
@@ -13,11 +13,11 @@ Hi, I'm sayed osama mohamed
 
 - 🌱 I’m currently learning **Node js**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio]**(https://sayed-osama-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://sayed-osama-portfolio.vercel.app/)
 
 - 📫 How to reach me **sayedosama088@gmail.com**
 
-- 📄 Know about my experiences **[My Cv]**(https://drive.google.com/file/d/1MO1cvujfyf4uZXn7P3eXwTMQ16uZvY1-/view?usp=drivesdk)
+- 📄 Know about my experiences [My Cv](https://drive.google.com/file/d/1MO1cvujfyf4uZXn7P3eXwTMQ16uZvY1-/view?usp=drivesdk)
 
 - ✌️ Always Learning New Things
 
