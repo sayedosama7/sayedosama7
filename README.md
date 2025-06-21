@@ -18,7 +18,7 @@ Hi, I'm sayed osama mohamed
 
 - 📫 How to reach me 📨 **sayedosama088@gmail.com**
 
-- 📄 Know about my experiences [My Cv](https://drive.google.com/file/d/1MO1cvujfyf4uZXn7P3eXwTMQ16uZvY1-/view?usp=drivesdk)
+- 📄 Know about my experiences [My Cv](https://drive.google.com/file/d/1VI7W4mQ1iZ8wZ9YDcrQexWg3YXnvaTbW/view?usp=drive_link)
 
 - ✌️ Always Learning New Things
 
